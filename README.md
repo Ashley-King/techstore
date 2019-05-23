@@ -1,3 +1,5 @@
+# Hey! You can view this [website here](https://techstore-cf3c7a.netlify.com/)!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
